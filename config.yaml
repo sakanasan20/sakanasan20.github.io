@@ -26,7 +26,8 @@ params:
   background: "images/background.jpg"
   
   # GitHub repo URL of your site
-  gitRepo: https://github.com/sakanasan20/sakanasan20.github.io
+  # gitRepo: https://github.com/sakanasan20/sakanasan20.github.io
+  # gitBranch: source
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
