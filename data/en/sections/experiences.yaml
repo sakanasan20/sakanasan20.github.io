@@ -10,33 +10,90 @@ section:
 
 # Your experiences
 experiences:
+# - company:
+#     name: Example Co.
+#     url: "https://www.example.com"
+#     location: Dhaka Branch
+#     # company overview
+#     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#   positions:
+#   - designation: Senior Software Engineer
+#     start: Nov 2019
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - Design and develop XYZ tool for ABC task
+#     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+#     - Lead backend team.
+
+# - company:
+#     name: PreExample Co.
+#     url: "https://www.preexample.com"
+#     location: Nowhere
+#     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+#   positions:
+#   - designation: Software Engineer
+#     start: March 2016
+#     end: May 2017
+#     responsibilities:
+#     - Write lots of example codes.
+#     - Read lots of examples.
+#     - See lots of example videos.
+
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: CMP Group.
+    url: "http://cmp.com.tw/en"
+    location: Taipei, Taiwan
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview:  The CMP Group has become a conglomerate that sees steady growth across its diverse range of businesses of Metal Manufacturing, Land Development, Lifestyle Hospitality, and the CMP PUJEN Foundation for Arts and Culture.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Engineer
+    start: Jun 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and develop protal system.
+    - Design, develop and manage supply chain management system.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: KJ Soft
+    url: "https://www.kjsoft.com.tw/newweb/"
+    location: Taoyuan, Taiwan
+    overview: KJ Soft is a customized software development company.
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: May 2018
+    end: Jun 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Develop and maintain Taoyuan Metro ERP system.
+    - Develop and maintain TDCC transaction system.
+
+- company:
+    name: HCT Logistics
+    url: "https://www.hct.com.tw/Default_en.aspx"
+    location: Taoyuan, Taiwan
+    overview: HCT is thriving in Taiwan consistently, it has emerged as a world leading brand in logistics.
+  positions:
+  - designation: Software Engineer
+    start: Sep 2009
+    end: Oct 2015
+    responsibilities:
+    - Develop and maintain supply chain management system.
+    - Develop and maintain delivery management system.
+    - Develop and maintain warehouse management system.
+
+- company:
+    name: NKG Group
+    url: "https://www.hct.com.tw/Default_en.aspx"
+    location: Shenkeng, Taiwan / Suzhou, China
+    overview: Cal-Comp is the largest Electronics Manufacturing Services (EMS) Company in Thailand and Southeast Asia, providing manufacturing services in OEM (original equipment manufacturing) and ODM (original design manufacturing) across a variety of products for our clients that are mostly exported worldwide..
+  positions:
+  - designation: Software Engineer
+    start: Jul 2016
+    end: Mar 2018
+    responsibilities:
+    - Develop multi-function printer firmware.
+    - New product introduce for production line.
+    - Manage production testing team.
