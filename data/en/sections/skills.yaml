@@ -11,16 +11,25 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+# - name: Kubernetes
+#   logo: "/images/sections/skills/kubernetes.png"
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+# - name: Go Development
+#   logo: "/images/sections/skills/go.png"
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+# - name: Cloud Computing
+#   logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Spring
+  summary: "Spring"
+
+- name: Java
+  summary: "Java"
+
+- name: Vue
+  summary: "Vue"
